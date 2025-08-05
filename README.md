@@ -5,7 +5,8 @@ The analysis covers over **650,000+ reported crimes** from **2023 to the present
 
 It combines crime reports with demographic, economic, and community-level data to uncover patterns and generate actionable insights for policy-making, public safety, and urban planning
 
-- 📊 [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZmVlYTQ4NjgtZGZiZS00Njk5LTg2ZWItOTliYjVhM2JjYWZjIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9) 
+- ### [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZmVlYTQ4NjgtZGZiZS00Njk5LTg2ZWItOTliYjVhM2JjYWZjIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+- ### [Presentation](https://chicago-crime-analysis-arf9j8m.gamma.site/)
 ---
 ## 🗂️ Data Sources
 

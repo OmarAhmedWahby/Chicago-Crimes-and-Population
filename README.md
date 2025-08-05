@@ -231,11 +231,15 @@ It highlights the importance of addressing **root causes** — such as poverty, 
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻Team Members
 
 ### Omar Ahmed Wahby  
-- [LinkedIn](https://www.linkedin.com/in/omarwahby35)  
+- [LinkedIn](https://www.linkedin.com/in/omarwahby)  
 - [GitHub](https://github.com/OmarAhmedWahby)
+
+### Mohanad Elkashir  
+- [LinkedIn](https://www.linkedin.com/in/mohanad-elkashir-412b95242)  
+- [GitHub](https://github.com/ElKashir)
 
 
 

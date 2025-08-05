@@ -5,6 +5,7 @@ The analysis covers over **650,000+ reported crimes** from **2023 to the present
 
 It combines crime reports with demographic, economic, and community-level data to uncover patterns and generate actionable insights for policy-making, public safety, and urban planning
 
+- 📊 [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZmVlYTQ4NjgtZGZiZS00Njk5LTg2ZWItOTliYjVhM2JjYWZjIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9) 
 ---
 ## 🗂️ Data Sources
 
@@ -164,3 +165,80 @@ This project combines multiple datasets to provide a comprehensive view of crime
 ## Snapshots
 
 ![Dashboard Preview](Chicago/Chicago_Crimes%20(1)_page-0001.jpg)
+![Dashboard Preview](Chicago/Chicago_Crimes%20(1)_page-0002.jpg)
+![Dashboard Preview](Chicago/Chicago_Crimes%20(1)_page-0003.jpg)
+![Dashboard Preview](Chicago/Chicago_Crimes%20(1)_page-0004.jpg)
+![Dashboard Preview](Chicago/Chicago_Crimes%20(1)_page-0005.jpg)
+![Dashboard Preview](Chicago/Chicago_Crimes%20(1)_page-0006.jpg)
+![Dashboard Preview](Chicago/Chicago_Crimes%20(1)_page-0007.jpg)
+
+---
+
+## 🔍 Key Insights
+
+- **Total Recorded Crimes**: Over **650,000 incidents** reported from 2023 to present, spanning **31 crime types**.
+- **Peak Crime Periods**: Most crimes occur during the **night (151K)** and **evening (140K)** hours.
+- **Weekend Surge**: **Fridays and Saturdays** show the highest crime rates consistently.
+- **Public Places at Risk**: Around **58% of crimes** happen in **public spaces** — streets, sidewalks, and parking lots.
+- **Arrest Rate Concern**: Only **13.64%** of crimes resulted in arrests — indicating a **gap in enforcement or evidence**.
+- **Gun-Related Incidents**: Over **67,000 crimes** involved firearms (~10% of total).
+- **Socioeconomic Correlation**:
+  - High-crime areas like **Austin** and **Auburn Gresham** show high levels of **unemployment**, **poverty**, and **low education**.
+- **Seasonal Patterns**:
+  - **Spring (184K)** and **summer** show elevated crime levels.
+  - Winter months show only **mild declines**, especially in vulnerable areas.
+- **Domestic Violence**: Approximately **18.37%** of reported crimes are **domestic in nature** — highlighting a significant social concern.
+- **Crime Severity**:
+  - **42%** of all crimes are classified as **high danger**.
+  - **Theft and Battery** alone make up **40%+** of total crimes.
+- **Geographic Hotspots**:
+  - **Austin** recorded the **highest number** of crimes (32,368), strongly linked to socio-economic challenges.
+  - **Near North Side**, despite being wealthier, reported **28,000+ crimes** — mostly thefts, emphasizing that **commercial hubs are also vulnerable**.
+- **Environmental & Social Drivers**:
+  - High-danger crimes are heavily concentrated in areas with **poor infrastructure**, **dense housing**, and **limited community-police interaction**.
+
+---
+
+## ✅ Recommendations
+
+- **Enhance Police Presence in Public Spaces**  
+  Deploy more patrols to **hotspots** like streets, alleys, parking areas, and retail zones.
+
+- **Focus Security During High-Risk Times**  
+  Allocate extra resources during **night hours and weekends** when crimes spike.
+
+- **Strengthen Community Programs in High-Risk Areas**  
+  Invest in **education, employment opportunities**, and **youth engagement** — especially in Austin, Humboldt Park, and similar neighborhoods.
+
+- **Improve Arrest Efficiency**  
+  Enhance **forensic capabilities**, **surveillance**, and **evidence-gathering** processes to increase arrest rates.
+
+- **Expand Domestic Violence Support Systems**  
+  Provide more **crisis centers, shelters**, and **public awareness** campaigns for victims.
+
+- **Implement Predictive Policing Models**  
+  Use **time-series and spatial data** to forecast crime and optimize resource deployment.
+
+- **Adopt Crime Severity Mapping**  
+  Visualize **high-danger zones** for **faster emergency response** and better community alerts.
+
+---
+
+## 🌍 Real-World Impact
+
+This analysis can support **policymakers, police departments, and community leaders** in making **data-driven decisions**.  
+It highlights the importance of addressing **root causes** — such as poverty, unemployment, and lack of education — to reduce crime and improve public safety in Chicago.
+
+
+---
+
+## 👨‍💻 Author
+
+### Omar Ahmed Wahby  
+- [LinkedIn](https://www.linkedin.com/in/omarwahby35)  
+- [GitHub](https://github.com/OmarAhmedWahby)
+
+
+
+
+

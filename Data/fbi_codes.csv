@@ -1,0 +1,61 @@
+﻿crime_type,crime_description,crime_code
+More serious offenses,Homicide 1st & 2nd Degree ,01A
+More serious offenses,Criminal Sexual Assault ,02
+More serious offenses,Robbery ,03
+More serious offenses,Aggravated Assault ,04A
+More serious offenses,Aggravated Battery ,04B
+More serious offenses,Burglary ,05
+More serious offenses,Larceny ,06
+More serious offenses,Motor Vehicle Theft ,07
+More serious offenses,Arson ,09
+Less serious offenses,Involuntary Manslaughter ,01B
+Less serious offenses,Simple Assault ,08A
+Less serious offenses,Simple Battery ,08B
+Less serious offenses,Forgery & Counterfeiting ,10
+Less serious offenses,Fraud ,11
+Less serious offenses,Embezzlement ,12
+Less serious offenses,Stolen Property ,13
+Less serious offenses,Vandalism ,14
+Less serious offenses,Weapons Violation ,15
+Less serious offenses,Prostitution ,16
+Less serious offenses,Criminal Sexual Abuse ,17
+Less serious offenses,Drug Abuse ,18
+Less serious offenses,Gambling ,19
+Less serious offenses,Offenses Against Family ,20
+Less serious offenses,Liquor License ,22
+Less serious offenses,Disorderly Conduct ,24
+Less serious offenses,Misc Non-Index Offense ,26
+Crime related to Violence,Homicide 1st & 2nd Degree ,01A
+Crime related to Violence,Criminal Sexual Assault ,02
+Crime related to Violence,Robbery ,03
+Crime related to Violence,Aggravated Assault ,04A
+Crime related to Violence,Aggravated Battery ,04B
+Crime related to Property,Burglary ,05
+Crime related to Property,Larceny ,06
+Crime related to Property,Motor Vehicle Theft ,07
+Crime related to Property,Arson ,09
+Public Violence,HOMICIDE FIRST DEGREE MURDER,0110
+Public Violence,HOMICIDE SECOND DEGREE MURDER,0130
+Public Violence,JUSTIFIABLE HOMICIDE,0150
+Public Violence,HOMIICIDE INVOLUNTARY MANSLAUGHTER,0141
+Public Violence,CRIM SEXUAL ASSAULT AGGRAVATED: HANDGUN,0261
+Public Violence,CRIM SEXUAL ASSAULT AGGRAVATED: OTHER FIREARM,0262
+Public Violence,CRIM SEXUAL ASSAULT ATTEMPT AGG: HANDGUN,0271
+Public Violence,CRIM SEXUAL ASSAULT ATTEMPT AGG: OTHER FIREARM,0272
+Public Violence,ROBBERY ARMED: HANDGUN,031A
+Public Violence,ROBBERY ARMED: OTHER FIREARM,031B
+Public Violence,ROBBERY AGGRAVATED VEHICULAR HIJACKING,0326
+Public Violence,ROBBERY ATTEMPT: ARMED-HANDGUN,033A
+Public Violence,ROBBERY ATTEMPT: ARMED-OTHER FIREARM,033B
+Public Violence,BATTERY AGGRAVATED: HANDGUN,041A
+Public Violence,BATTERY AGGRAVATED: OTHER FIREARM,041B
+Public Violence,BATTERY AGGRAVATED PO: HANDGUN,0450
+Public Violence,BATTERY AGGRAVATED PO: OTHER FIREARM,0451
+Public Violence,BATTERY AGG PRO.EMP: HANDGUN,0480
+Public Violence,BATTERY AGG PRO.EMP: OTHER FIREARM,0481
+Public Violence,ASSAULT AGGRAVATED: HANDGUN,051A
+Public Violence,ASSAULT AGGRAVATED: OTHER FIREARM,051B
+Public Violence,ASSAULT AGGRAVATED PO: HANDGUN,0550
+Public Violence,ASSAULT AGGRAVATED PO: OTHER FIREARM,0551
+Public Violence,WEAPONS VIOLATION UNLAWFUL USE HANDGUN,141A
+Public Violence,WEAPONS VIOLATION UNLAWFUL USE OTHER FIREARM,141B

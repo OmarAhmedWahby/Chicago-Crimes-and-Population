@@ -13,7 +13,7 @@ This project combines multiple datasets to provide a comprehensive view of crime
 
 ### 📌 Main Sources:
 1. **Chicago Crime Data (2023–Present)**  
-   - Source: [Chicago Data Portal](https://data.cityofchicago.org/resource/ijzp-q8t2.json
+   - Source: [Chicago Data Portal](https://data.cityofchicago.org/resource/ijzp-q8t2.json)
    - Updated via automated scripts (not included here due to size and frequency)
    - +650K crime records with full details: location, time, type, arrest status, etc
 
@@ -39,7 +39,7 @@ This project combines multiple datasets to provide a comprehensive view of crime
 ---
 ## 📘 Data Model Overview
 
-![Dashboard Preview](Chicago/Modeling-sanpshot)
+![Dashboard Preview](Chicago/Modeling-snapshot)
 
 ### 🔹 1. `chicago_crime_data_incremental`
 | Column          | Description                                  |

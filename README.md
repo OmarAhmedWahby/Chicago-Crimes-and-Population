@@ -103,7 +103,6 @@ This project combines multiple datasets to provide a comprehensive view of crime
 | `PRIMARY DESCRIPTION`  | General crime category.                |
 | `SECONDARY DESCRIPTION`| Specific sub-type of the crime.        |
 
----
 
 ### 🔹 7. `Date`
 | Column       | Description                    |
@@ -145,9 +144,8 @@ This project combines multiple datasets to provide a comprehensive view of crime
 |-------------|
 | Tables used to control dynamic filtering, parameter selection, and slicers within the Power BI dashboard. |
 
----
 
-🎯 This model was designed to enable deep exploration of:
+### 🎯 This model was designed to enable deep exploration of:
 - Crime distribution over time and communities
 - The influence of socio-economic conditions on crime
 - Demographic patterns linked to criminal activity

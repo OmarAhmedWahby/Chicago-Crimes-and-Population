@@ -39,6 +39,7 @@ This project combines multiple datasets to provide a comprehensive view of crime
 ---
 ## 📘 Data Model Overview
 
+![Dashboard Preview](Chicago/Modeling-sanpshot)
 
 ### 🔹 1. `chicago_crime_data_incremental`
 | Column          | Description                                  |
@@ -53,7 +54,6 @@ This project combines multiple datasets to provide a comprehensive view of crime
 | `date_Time`      | Full datetime of the crime.                  |
 | `description`    | Textual description of the incident.         |
 
----
 
 ### 🔹 2. `district`
 | Column         | Description                      |
@@ -61,7 +61,6 @@ This project combines multiple datasets to provide a comprehensive view of crime
 | `district`     | Police district number.          |
 | `district_sid` | Secondary district identifier.   |
 
----
 
 ### 🔹 3. `fbi_codes`
 | Column            | Description                         |
@@ -69,7 +68,6 @@ This project combines multiple datasets to provide a comprehensive view of crime
 | `fbi_codes`        | Official FBI classification code.   |
 | `crime_description`| FBI-level crime category.           |
 
----
 
 ### 🔹 4. `Community_Area_level`
 | Column                                                  | Description                                       |
@@ -83,7 +81,6 @@ This project combines multiple datasets to provide a comprehensive view of crime
 | `PERCENT AGED 25+ WITHOUT HIGH SCHOOL DIPLOMA`          | % of adults lacking high school education.        |
 | `PERCENT AGED UNDER 18 OR OVER 64`                      | % of dependent age population (youth and elderly).|
 
----
 
 ### 🔹 5. `Community_Area (with Demographics)`
 | Description |
@@ -96,7 +93,6 @@ This project combines multiple datasets to provide a comprehensive view of crime
 - Population size (`Total Population`)
 - Record metadata (`Record ID`)
 
----
 
 ### 🔹 6. `IUCR_Codes`
 | Column                | Description                            |
@@ -116,7 +112,6 @@ This project combines multiple datasets to provide a comprehensive view of crime
 | `IsHoliday`  | Boolean for holiday flags.     |
 | `Month`, `Quarter`, `Year` | Standard calendar fields. |
 
----
 
 ### 🔹 8. `Time`
 | Column         | Description                      |
@@ -125,7 +120,6 @@ This project combines multiple datasets to provide a comprehensive view of crime
 | `Period`       | AM/PM or custom segment.         |
 | `Time Category`| Grouped time buckets.            |
 
----
 
 ### 🔹 9. `ChicagoWardOffices`
 | Column              | Description                          |
@@ -134,7 +128,6 @@ This project combines multiple datasets to provide a comprehensive view of crime
 | `CITY HALL ADDRESS`, `PHONE` | Contact information.         |
 | `CITY HALL ZIPCODE`, `LOCATION` | Location and ZIP code.    |
 
----
 
 ### 🔹 10. `Measure Table`
 | Description |
@@ -145,7 +138,6 @@ This project combines multiple datasets to provide a comprehensive view of crime
 - Age-based crime analysis
 - Socio-economic indicators (`% Below Poverty`, `% Unemployed`, etc.)
 
----
 
 ### 🔹 11. `Parameter` & `Tables`
 | Description |
@@ -159,6 +151,14 @@ This project combines multiple datasets to provide a comprehensive view of crime
 - The influence of socio-economic conditions on crime
 - Demographic patterns linked to criminal activity
 
+---
+
+## 🧰 Tools & Technologies
+
+- Power BI (Data Modeling & Visualization)
+- SQL (Data Cleaning & Querying)
+- Python (Exploratory Analysis || Web Scraping )
+- Public Data Sources (Chicago Data Portal + US Census)
 
 ---
 
